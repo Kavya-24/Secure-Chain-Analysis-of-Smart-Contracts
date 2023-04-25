@@ -1,0 +1,4 @@
+(declare-fun TXVALUE () (_ BitVec 256))
+(declare-fun a_6176 () (_ BitVec 256))(assert (= a_6176 #x00000000000000000000000000000000000000000000000000000000000003e8))
+(declare-fun a_6177 () Bool)(assert (= a_6177 (bvule TXVALUE a_6176)))
+(assert (= a_6177 false))

@@ -1,0 +1,15 @@
+Message: RETURN
+Last exception: RETURN
+Last instruction at contract 3b06d86fc653256067c12286f9fe3c5d4f2ec780 offset 1f9
+    17  | c / a == b);
+        18      }
+        19      func
+
+3 accounts.
+* owner::
+Address: 0x87f1df10f9613b3a97f52d30992b97ef115a61b3 
+Balance: 1000 
+Storage: STORAGE_87f1df10f9613b3a97f52d30992b97ef115a61b3
+
+* attacker::
+Address: 0xb5fa4b35083bea7ca8b8686f240fc45462df269e 
